@@ -10,8 +10,8 @@ The last 8 months have been a profound lesson in humility and resilience.
 
 ### 🚀 What I bring to the table
 I bridge the gap between complex business challenges and data-driven solutions:
-* **Strategic Background:** Years of experience leading regional operations in LATAM [cite: 7, 19] [cite_start]and founding my own ventures, **Keen** and **Happy Learning**.
-* **Analytical Mindset:** I specialize in **Power BI**, **SQL**, and **Advanced Excel** to transform messy data into actionable insights for leadership[cite: 8, 15, 19].
+* **Strategic Background:** Years of experience leading regional operations in LATAM, and founding my own ventures, **Keen** and **Happy Learning**.
+* **Analytical Mindset:** I specialize in **Power BI**, **SQL**, and **Advanced Excel** to transform messy data into actionable insights for leadership.
 * **Human Perspective:** My time in hospitality has sharpened my "soft skills"—patience, communication, and the ability to thrive in fast-paced, multicultural environments.
 
 ### 🛠 Toolkit
