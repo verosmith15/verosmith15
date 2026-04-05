@@ -22,4 +22,7 @@ I bridge the gap between complex business challenges and data-driven solutions:
 I am currently looking for opportunities where I can apply my technical expertise and my renewed perspective on growth and efficiency.
 
 ---
-📫 **I'm always open for a chat (or a coffee!) about data, operations, or life in Sydney:** [LinkedIn](https://www.linkedin.com/in/veronicatorresmaza) 
+### 📄 Mi Perfil Profesional
+* 📥 [**Descargar mi CV en PDF**](CV_VeronicaSmithTorresMaza_AU.pdf)
+* 💼 [**Conectar en LinkedIn**](https://www.linkedin.com/in/veronicasmith15)
+📫 **I'm always open for a chat (or a coffee!) about data, operations, or life in Sydney:**
