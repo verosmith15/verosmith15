@@ -23,6 +23,6 @@ I am currently looking for opportunities where I can apply my technical expertis
 
 ---
 ### Mi Perfil Profesional
-* 📥 [**Download my CV in PDF format**](https://github.com/verosmith15/verosmith15/blob/77d5ff9bde1ac701f6cc1032e4ec0bcf88564e2e/CV_VeronicaSmithTorresMaza_AU.pdf)
+* 📥 [**Download my CV in PDF format**](https://github.com/verosmith15/verosmith15/blob/ab307672c1b70e204906abe1ef597ae01069465a/CV_VeronicaSmithTorresMaza_AU.pdf)
 * 💼 [**Connect on LinkedIn**](https://www.linkedin.com/in/verosmith15)
 📫 **I'm always open for a chat (or a coffee!) about data, operations, or life in Sydney**
